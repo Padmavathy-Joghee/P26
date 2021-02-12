@@ -1,0 +1,11 @@
+Bread,
+butter,
+cheese,
+onions,
+tomatoes,
+corianders,
+capsicum,
+salt and pepper,
+carrot slices,
+cucumbers slices,
+ketchup.
